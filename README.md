@@ -1,3 +1,8 @@
+# Technologies used:
+![aws-cli](./images/aws-cli.jpg)
+![RDS](./images/RDS.png)
+![terraform](./images/terraform.png)
+![mysql](./images/mysql.png)
 # AWS RDS Terraform Configuration
 This is a Terraform configuration to provision an RDS database instance in AWS with MySQL engine version 8.0.
 # Prerequisites
