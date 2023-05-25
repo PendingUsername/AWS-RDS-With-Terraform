@@ -1,5 +1,5 @@
 # Technologies used:
-* Shutdown Database to minimize costs.
+# * Shutdown Database to minimize costs.
 ![aws-cli](./images/aws-cli.jpg)
 ![RDS](./images/RDS.png)
 ![terraform](./images/terraform.png)
